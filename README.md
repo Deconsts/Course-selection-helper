@@ -2,7 +2,7 @@
 Designed for UCAS course selection system
 
 ## 环境要求
-可执行文件可以在Windows系统下执行  
+可执行文件（\exe\dist\course.exe）可以在Windows系统下执行  
 Python版本为3.7.2（注意，代码无法在解释器中正确运行，必须在命令行中才能输入密码）  
 需要Google Chrome浏览器（优先）或者Microsoft Edge浏览器才能运行
 
