@@ -26,4 +26,4 @@ v1.5 整合程序，并支持edge浏览器 2019.8.26
 v1.6 添加对学院的选择 2020.6.29
 
 ## 联系方式
-deconsts720@gmail.com
+deconst720@gmail.com
