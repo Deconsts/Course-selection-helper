@@ -1,5 +1,5 @@
 # Course-selection-helper
-Designed for UCAS course selection system
+Designed for UCAS course selection system  
 UCAS抢课程序
 
 ## 环境要求
@@ -24,7 +24,7 @@ v1.2 优化了选课时间未到的逻辑 2019.7.22
 v1.3 优化了密码输入效果 2019.8.19  
 v1.4 优化了课程较多时的选课速度，并增加了出错时的提示 2019.8.25  
 v1.5 整合程序，并支持edge浏览器 2019.8.26  
-v1.6 添加对学院的选择 2020.6.29
+v1.6 添加对学院的选择 2020.6.29  
 v1.7 修复了在个别浏览器中因显示问题导致的报错，并且通过了实际使用的测试 2020.6.30
 
 ## 备注
